@@ -1,1 +1,3 @@
-# IFS-Fractal-Editor
+Dependencies:
+PyGame
+Matplotlib
